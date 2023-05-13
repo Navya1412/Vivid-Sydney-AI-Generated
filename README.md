@@ -9,4 +9,9 @@ Overall, the platform was effective in coming up with proper, structured, and se
 Most of what I did during this assignment worked well for me. I found myself constantly thinking back to everything I have learned so far and tried to incorporate most of it if not all. Some things that did not work for me was trying to forget or unlearn all the wrong ways of effectively writing a code. I first learnt how to code in 2016 and have been told that most of what I know was wrong or is not the right and effective way to write a code. Ever since I have been trying to unlearn and let go of all the old methods such as using a "br" tag inside a "p" tag to break paragraphs and using px and % for font size instead of ems and rems. While this has been a long and frustrating process, I think I am slowly getting the hang of it. Something else that I have not yet got comfortable with is linking VSC and GitHub Desktop and using them together. This past week I would regularly work on my codes and push and commit them on GitHub but last night I found out that it was nowhere to be seen on GitHub. I am still confused as to what went wrong and why it would not work as seen during the first tutorial session. Overall, I had interesting experience during this unit and it gave me a new perspective on how I can efficiently build a responsive website. 
 
 Prompts:
-<li>
+<li> create a website on vivid sydney using html and css
+<li> make the nav bar prettier
+<li> use another font instead of arial
+<li> add some colour to the website
+<li> what information can i write on the home page of vivid sydney
+<li> design a logo using shapes and colours using html and css for vivid sydney
