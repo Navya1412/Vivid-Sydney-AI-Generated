@@ -14,6 +14,10 @@ header {
   padding: 10px;
 }
 
+.first{
+  max-height: 30.2vw;
+}
+
 .inner{
   width: 75%;
   margin: 0 auto;
